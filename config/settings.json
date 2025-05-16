@@ -1,0 +1,9 @@
+{
+  "email": {
+    "from": "avikaintern@gmail.com",
+    "to": "avikaintern@gmail.com",
+    "smtp": "smtp.gmail.com",
+    "port": 465,
+    "password": "your_app_password_here"
+  }
+}
